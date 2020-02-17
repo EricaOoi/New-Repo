@@ -1,0 +1,26 @@
+// // const csv = require("csv-parser");
+// // const fs = require("fs");
+
+// // fs.createReadStream("assets/SchoolAttendence.xlsx")
+// //   .pipe(csv())
+// //   .on("SchoolAttendence", row => {
+// //     console.log(row);
+// //   })
+// //   .on("end", () => {
+// //     console.log("CSV file successfully processed");
+// //   });
+
+// const csv = require("csv-parser");
+// const fs = require("fs");
+// var count1 = 0,
+// // .on("end", () => {
+// //   console.log("CSV file successfully processed");
+// // });
+
+ // readData.forEach((readData, lastName, eachName) => {
+  //   lastName = +lastName[eachName];
+  // });
+
+  // console.log(data);
+
+  // console.log(await neatCsv(readData.Attendance));
